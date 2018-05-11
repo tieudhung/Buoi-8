@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\LTM B8 -01\LTM B8 -02\bin\Debug\LTM B8 -02.exe.config
+C:\Users\User\Desktop\LTM B8 -01\LTM B8 -02\bin\Debug\LTM B8 -02.exe
+C:\Users\User\Desktop\LTM B8 -01\LTM B8 -02\bin\Debug\LTM B8 -02.pdb
+C:\Users\User\Desktop\LTM B8 -01\LTM B8 -02\obj\Debug\LTM B8 -02.exe
+C:\Users\User\Desktop\LTM B8 -01\LTM B8 -02\obj\Debug\LTM B8 -02.pdb
